@@ -13,5 +13,5 @@ The bot will also respond to mentions and pings to the imitating user and their 
 `~forcechange` - chooses a new person at random from the server to imitate.
 
 ## Credits
-https://github.com/ckhawks - discord bot focus
-https://github.com/tjnorwat - machine learning focus
+https://github.com/ckhawks - discord bot focus  
+https://github.com/tjnorwat - machine learning focus  
