@@ -493,3 +493,11 @@
 2022-03-28 13:36:02,534:DEBUG:discord.client: Dispatching event socket_raw_receive
 2022-03-28 13:36:02,534:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
 2022-03-28 13:36:02,534:DEBUG:discord.client: Dispatching event socket_response
+2022-03-28 13:36:43,747:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 65.
+2022-03-28 13:36:43,790:DEBUG:discord.client: Dispatching event socket_raw_receive
+2022-03-28 13:36:43,790:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2022-03-28 13:36:43,790:DEBUG:discord.client: Dispatching event socket_response
+2022-03-28 13:37:24,998:DEBUG:discord.gateway: Keeping shard ID None websocket alive with sequence 65.
+2022-03-28 13:37:25,037:DEBUG:discord.client: Dispatching event socket_raw_receive
+2022-03-28 13:37:25,037:DEBUG:discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+2022-03-28 13:37:25,037:DEBUG:discord.client: Dispatching event socket_response
