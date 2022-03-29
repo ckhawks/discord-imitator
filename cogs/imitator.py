@@ -66,13 +66,9 @@ class Imitator(commands.Cog):
             message = await self.get_chat()
 
             if message is not None:
+                
                 # .10s per letter in message
                 sleeplength = (len(message) * .10)
-
-                # TODO scale wait time based on message length
-                # create message argument in say_bullshit method
-                #   so that you have message data here to use for calculating wait time
-                #     based on message length
                 await asyncio.sleep(sleeplength)
 
                 # send message
